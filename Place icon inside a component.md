@@ -1,0 +1,36 @@
+[[CSS]]
+# Place icon inside a component in CSS
+#resource 
+
+```css
+.wrapper {
+  position:relative;
+}
+
+.icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  background-color: red;
+  padding: 4px;
+  position: absolute;
+  box-sizing:border-box;
+  top:50%;
+  left:2px;
+  transform: translateY(-50%);
+}
+
+.input {
+  height: 50px;
+  box-sizing:border-box;
+  padding-left: 1.5rem;
+}
+```
+
+```html
+<div class="wrapper">
+  <div class="icon"></div>
+  <input class="input"></input>
+</div>  
+```
+
+[Reference](https://stackoverflow.com/a/70022202)
