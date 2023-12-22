@@ -11,9 +11,12 @@
             "id": "cb98e4df4563ad34",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "_010 Projects MOC.md"
+                "file": "Plans/Daily/2023-12-22.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,8 +191,9 @@
   },
   "active": "cb98e4df4563ad34",
   "lastOpenFiles": [
-    "Creating a Task Management Website.md",
+    "_015 Tasks MOC.md",
     "_010 Projects MOC.md",
+    "Creating a Task Management Website.md",
     "Switching to Obsidian.md",
     "Plans/Daily/2023-12-22.md",
     "Operating System.md",
@@ -211,7 +215,6 @@
     "_000 Home.md",
     "Vim.md",
     "_030 School MOC.md",
-    "_015 Tasks MOC.md",
     "Clyde.md",
     "My Favorites Apps or Softwares.md",
     "git",
