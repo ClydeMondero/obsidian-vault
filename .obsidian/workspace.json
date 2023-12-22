@@ -11,12 +11,9 @@
             "id": "cb98e4df4563ad34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "_010 Projects MOC.md"
               }
             }
           },
@@ -127,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
+                "file": "_010 Projects MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -162,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
+                "file": "_010 Projects MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,6 +188,10 @@
   },
   "active": "cb98e4df4563ad34",
   "lastOpenFiles": [
+    "Creating a Task Management Website.md",
+    "_010 Projects MOC.md",
+    "Switching to Obsidian.md",
+    "Plans/Daily/2023-12-22.md",
     "Operating System.md",
     "_005 Inbox MOC.md",
     "Linux.md",
@@ -203,11 +204,8 @@
     "Middleware.md",
     "Routing.md",
     "REST.md",
-    "_010 Projects MOC.md",
     "Take DSA Course Kanban.md",
     "Data Structures and Algorithm.md",
-    "Creating a Task Management Website.md",
-    "Plans/Daily/2023-12-22.md",
     "Git.md",
     "_050 Coding MOC.md",
     "_000 Home.md",
@@ -217,7 +215,6 @@
     "Clyde.md",
     "My Favorites Apps or Softwares.md",
     "git",
-    "Templates/Daily Planner Template.md",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",
     "Plans/Daily/~syncthing~2023-12-17.md.tmp",
