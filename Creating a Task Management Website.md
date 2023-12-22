@@ -18,3 +18,4 @@
 - [[Add icons in React using FontAwesome]]
 - [[React Forms]]
 - [[Redux]] 
+- [Authentication](https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/)

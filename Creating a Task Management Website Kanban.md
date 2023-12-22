@@ -1,12 +1,15 @@
 ---
+
 kanban-plugin: basic
 Links:
   - "[[Creating a Task Management Website]]"
+
 ---
 
 ## Not Started
 
-- [ ] Task Model
+- [ ] Controllers
+- [ ] README
 
 
 ## In Development
@@ -27,6 +30,7 @@ Links:
 - [x] Create a Server
 - [x] Connect to Database
 - [x] Routes
+- [x] Task Model
 
 
 
