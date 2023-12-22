@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP status codes.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HTTP status codes.md",
+                "file": "TypeScript.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP status codes.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,10 +221,11 @@
   },
   "active": "f68ef676a260f36a",
   "lastOpenFiles": [
+    "HTTP status codes.md",
+    "TypeScript.md",
     "Creating a Task Management Website.md",
     "Routes, and Controller in Express.md",
     "HTTP.md",
-    "HTTP status codes.md",
     "Create a REST API using MongoDB, Express, and Node.md",
     "Take DSA Course Kanban.md",
     "Task Management in Obsidian.md",
@@ -246,7 +247,6 @@
     "Middleware.md",
     "Routing.md",
     "REST.md",
-    "Data Structures and Algorithm.md",
     "git",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",
