@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
+                "file": "Creating a Task Management Website.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c62c2e5c60dc995c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routes, and Controller in Express.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
+                "file": "Routes, and Controller in Express.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2023-12-22.md",
+                "file": "Routes, and Controller in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,13 +203,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb98e4df4563ad34",
+  "active": "c62c2e5c60dc995c",
   "lastOpenFiles": [
+    "Creating a Task Management Website.md",
+    "Task Management in Obsidian.md",
+    "Useful Browser Extensions.md",
+    "My Favorites Apps or Softwares.md",
+    "Plans/Daily/2023-12-22.md",
     "_015 Tasks MOC.md",
     "_010 Projects MOC.md",
-    "Creating a Task Management Website.md",
     "Switching to Obsidian.md",
-    "Plans/Daily/2023-12-22.md",
     "Operating System.md",
     "_005 Inbox MOC.md",
     "Linux.md",
@@ -214,9 +231,6 @@
     "_050 Coding MOC.md",
     "_000 Home.md",
     "Vim.md",
-    "_030 School MOC.md",
-    "Clyde.md",
-    "My Favorites Apps or Softwares.md",
     "git",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",

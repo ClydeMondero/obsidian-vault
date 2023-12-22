@@ -1,11 +1,13 @@
 [[Clyde]]
 
-# My Favorites Apps or Softwares
+# My Favorites Apps or Software
 #resource 
 
-- Neovim - code edittor
-- Obsidian - notetakins
+- Neovim - IDE 
+- Obsidian - notetaking
 - OperaGx - browser
 - White Noise 
 - Greenshot - screenshot
-- GlazeWM - window manage
+- GlazeWM - window manager
+- MoonReader - book reader
+- Tachiyomi - manga and manhwa reader
