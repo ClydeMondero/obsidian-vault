@@ -1,0 +1,16 @@
+{
+  "accentColor": "#f55c5c",
+  "cssTheme": "Minimal",
+  "baseFontSize": 19,
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "tasks-links",
+    "callout",
+    "note-date",
+    "hide-properties",
+    "kanban-done"
+  ],
+  "baseFontSizeAction": true
+}

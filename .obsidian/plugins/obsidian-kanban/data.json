@@ -1,0 +1,17 @@
+{
+  "show-checkboxes": true,
+  "tag-colors": [],
+  "new-note-folder": "/",
+  "show-relative-date": true,
+  "hide-date-display": true,
+  "hide-tags-in-title": true,
+  "hide-tags-display": true,
+  "hide-date-in-title": true,
+  "hide-card-count": true,
+  "show-search": false,
+  "show-board-settings": false,
+  "show-view-as-markdown": false,
+  "show-archive-all": false,
+  "show-add-list": false,
+  "date-colors": []
+}

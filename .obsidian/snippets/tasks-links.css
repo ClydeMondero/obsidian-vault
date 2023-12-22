@@ -1,0 +1,8 @@
+li.plugin-tasks-list-item span.tasks-backlink .internal-link {
+  	font-size: 0;
+	}
+
+li.plugin-tasks-list-item span.tasks-backlink .internal-link::after {
+  	content: "🔗";
+	font-size: 1rem;
+	}

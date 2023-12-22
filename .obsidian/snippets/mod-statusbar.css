@@ -1,0 +1,15 @@
+.status-bar-item.plugin-various-complements{
+	display: none;
+}
+
+.status-bar-item.plugin-editor-status.mod-clickable{
+	display: none;
+}
+
+.status-bar-item.plugin-obsidian-spaced-repetition.mod-clickable{
+	display: none;
+}
+
+.status-bar-item.plugin-obsidian-statusbar-pomo.statusbar-pomo{
+	font-size: 1rem;
+}

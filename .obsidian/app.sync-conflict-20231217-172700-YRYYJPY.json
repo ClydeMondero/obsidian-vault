@@ -1,0 +1,14 @@
+{
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "attachmentFolderPath": "Files",
+  "showLineNumber": false,
+  "propertiesInDocument": "source",
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "trashOption": "local",
+  "vimMode": true
+}

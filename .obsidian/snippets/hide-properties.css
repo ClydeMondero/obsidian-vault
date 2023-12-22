@@ -1,0 +1,30 @@
+/* Hide "Add property" button in in reading mode by default.
+Add "show_add_property_btn" to `css_classes` property to show it.
+================================================================= */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-add-button {
+    display: none;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_add_property_btn
+.metadata-add-button {
+    display: inline-flex;
+}
+
+/* hide "Properties" title in Reading view */
+.markdown-preview-view .metadata-properties-title {
+     display: none;
+}
+
+ /* remove inline title bottom margin */
+.markdown-preview-view .inline-title {
+    margin-bottom: 0px;
+}
+
+/* remove Properties view top padding */
+.markdown-preview-view .metadata-container {
+    padding: 0;
+    margin-top: -10px;
+}

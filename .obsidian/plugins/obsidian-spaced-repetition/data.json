@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "flashcardEasyText": "Basic",
+    "flashcardGoodText": "Moderate",
+    "flashcardHardText": "Difficult",
+    "flashcardTags": [
+      "#flashcards"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": false,
+    "burySiblingCards": false,
+    "showContextInCards": false,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 30,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": true,
+    "convertCurlyBracketsToClozes": true,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": false,
+    "tagsToReview": [
+      "#review"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": false,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2023-12-22",
+  "buryList": [],
+  "historyDeck": null
+}

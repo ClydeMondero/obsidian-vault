@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "cedccafd89ef0005",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7068d5043fd147e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66c6dfb6f4a5320d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_015 Tasks MOC.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd9647d0e7213c9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9954026c5040e2b6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7638ea2b66e3c378",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "07dc01df5510299d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "315758926200320c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a09f84439e0b0a3a",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9954026c5040e2b6",
+  "lastOpenFiles": [
+    "Plans/Daily/2023-12-17.md",
+    "_000 Home.md",
+    "8+8+8 Rule.md",
+    "Sports Hub.md",
+    "Customize clear button in search input using CSS.md",
+    "Count the total number of rows of a table in MySQL using PHP.md",
+    "CSS.md",
+    "IDE.md",
+    "Format numbers to currency in PHP.md",
+    "050 Coding MOC.md",
+    "AJAX.md",
+    "Search bar using PHP, jQuery, AJAX.md",
+    "Hide the  properties in Obsidian.md",
+    "Wave text in Adobe Premiere Pro.md",
+    "Powershell.md",
+    "Sports Hub Kanban.md",
+    "Metadata.md",
+    "Fix EAI_NONAME - Neither nodename nor servname provided, or not known error in FileZilla.md",
+    "Make a scrollbar visible only when necessary using CSS.md",
+    "Rename links in Obsidian.md",
+    "jQuery.md",
+    "Fix mailto not working in HTML.md",
+    "Prompt note name in note creation in Obsidian.md",
+    "XML.md",
+    "Language Server Protocol.md",
+    "Count the numbers of results of a query in PHP.md",
+    "Files/Screenshot_20231209_091511.jpg",
+    "Files/a86e7c8c175858bd8e5a731188ee3233.png",
+    "Files/Pasted image 20231207122942.png",
+    "Files/~$IT2_LESSON3.docx",
+    "Files/U3 L1 in SAD.docx",
+    "Files/U2 L3 in SAD.docx",
+    "Files/U4 L1 in SAD.docx",
+    "Files/U2 L4 in SAD.docx",
+    "Files/U3 L2 in SAD.docx",
+    "Files/U4 L2 in SAD.docx"
+  ]
+}
