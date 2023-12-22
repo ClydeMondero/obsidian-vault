@@ -1,9 +1,7 @@
-[[_050 Coding MOC]]
+[[_005 Inbox MOC]]
 
-# Vim
+# Operating System
 #resource 
-
-A free and open-source, screen-based text editor program.
 
 ## Related Resources
 ```dataview

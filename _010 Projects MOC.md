@@ -8,6 +8,7 @@ Links: "[[_000 Home]]"
 ## Not Started
 
 - [ ] [[Create a Portable NeoVim]]
+- [ ] [[Take DSA Course]]
 
 
 ## In Progress

@@ -1,4 +1,4 @@
-[[_005 Inbox MOC]]
+[[Windows]]
 
 # Add a app to startup in Windows
 #resource 

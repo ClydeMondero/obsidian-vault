@@ -1,6 +1,6 @@
 [[Operating System]]
 
-# Linux
+# Windows
 #resource 
 
 [Reference]() [[Resource Template|Reference]]

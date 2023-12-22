@@ -1,6 +1,4 @@
-[[_005 Inbox MOC]]
+[[_050 Coding MOC]]
 
 # Data Structures and Algorithm
 #resource 
-
-[Course](https://frontendmasters.com/courses/algorithms/)
