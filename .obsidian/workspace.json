@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "f68ef676a260f36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP status codes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e759c8f28d4a8740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c62c2e5c60dc995c",
             "type": "leaf",
             "state": {
@@ -30,16 +56,6 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "4a8920ce070804d2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Take DSA Course Kanban.md"
               }
             }
           }
@@ -141,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Routes, and Controller in Express.md",
+                "file": "HTTP status codes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -176,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routes, and Controller in Express.md",
+                "file": "HTTP status codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,9 +219,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c62c2e5c60dc995c",
+  "active": "f68ef676a260f36a",
   "lastOpenFiles": [
     "Creating a Task Management Website.md",
+    "Routes, and Controller in Express.md",
+    "HTTP.md",
+    "HTTP status codes.md",
+    "Create a REST API using MongoDB, Express, and Node.md",
+    "Take DSA Course Kanban.md",
     "Task Management in Obsidian.md",
     "Useful Browser Extensions.md",
     "My Favorites Apps or Softwares.md",
@@ -225,12 +246,7 @@
     "Middleware.md",
     "Routing.md",
     "REST.md",
-    "Take DSA Course Kanban.md",
     "Data Structures and Algorithm.md",
-    "Git.md",
-    "_050 Coding MOC.md",
-    "_000 Home.md",
-    "Vim.md",
     "git",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",
