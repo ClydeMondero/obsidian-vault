@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "cedccafd89ef0005",
+    "id": "8c7c352c87d95b6a",
     "type": "split",
     "children": [
       {
-        "id": "f7068d5043fd147e",
+        "id": "089c28ff08c69b49",
         "type": "tabs",
         "children": [
           {
-            "id": "66c6dfb6f4a5320d",
+            "id": "53d8a85f9a57e876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_015 Tasks MOC.md",
-                "mode": "preview",
+                "file": "Plans/Daily/2023-12-23.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -25,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cd9647d0e7213c9e",
+    "id": "321b057bd799a479",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9954026c5040e2b6",
+        "id": "4a6a4f22e59275d0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +40,7 @@
         }
       },
       {
-        "id": "7638ea2b66e3c378",
+        "id": "a2744deae0105f19",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,16 +53,47 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "8f8f003181b5b0b3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aaf72b4134edc25e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "07dc01df5510299d",
+    "id": "7efaf558e6429f2c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "315758926200320c",
+        "id": "62feb4946259a4a1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Plans/Daily/2023-12-23.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d5000ae1bc431d84",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -69,7 +101,15 @@
         }
       },
       {
-        "id": "a09f84439e0b0a3a",
+        "id": "c4f67e8ad98ac45d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "e522e3dfc057a35e",
         "type": "leaf",
         "state": {
           "type": "timeline",
@@ -77,60 +117,69 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9954026c5040e2b6",
+  "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
-    "Plans/Daily/2023-12-17.md",
-    "_000 Home.md",
-    "8+8+8 Rule.md",
-    "Sports Hub.md",
-    "Customize clear button in search input using CSS.md",
-    "Count the total number of rows of a table in MySQL using PHP.md",
-    "CSS.md",
-    "IDE.md",
-    "Format numbers to currency in PHP.md",
-    "050 Coding MOC.md",
-    "AJAX.md",
-    "Search bar using PHP, jQuery, AJAX.md",
-    "Hide the  properties in Obsidian.md",
-    "Wave text in Adobe Premiere Pro.md",
-    "Powershell.md",
-    "Sports Hub Kanban.md",
-    "Metadata.md",
-    "Fix EAI_NONAME - Neither nodename nor servname provided, or not known error in FileZilla.md",
-    "Make a scrollbar visible only when necessary using CSS.md",
-    "Rename links in Obsidian.md",
+    "TypeScript.md",
+    "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
+    "Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md",
+    "HTTP.md",
+    "My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md",
+    "Plans/Daily/2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md",
+    "Files/Pasted image 20231223131945.png",
+    "Useful Browser Extensions.md",
+    "Jest.md",
+    "Plans/Daily/2023-12-22.sync-conflict-20231223-143646-YRYYJPY.md",
+    "Creating a Task Management Website.sync-conflict-20231223-143640-YRYYJPY.md",
+    "Templates/Daily Planner Template.sync-conflict-20231223-143640-YRYYJPY.md",
+    "Redis.md",
+    "HTTP status codes.md",
     "jQuery.md",
-    "Fix mailto not working in HTML.md",
-    "Prompt note name in note creation in Obsidian.md",
+    "_050 Coding MOC.md",
+    "_040 People MOC.md",
+    "_030 School MOC.md",
+    "_020 Second Brain MOC.md",
+    "_015 Tasks MOC.md",
+    "_010 Projects MOC.md",
+    "_005 Inbox MOC.md",
+    "_000 Home.md",
+    "YAML.md",
     "XML.md",
-    "Language Server Protocol.md",
-    "Count the numbers of results of a query in PHP.md",
-    "Files/Screenshot_20231209_091511.jpg",
+    "Windows.md",
+    "WebSockets.md",
     "Files/a86e7c8c175858bd8e5a731188ee3233.png",
-    "Files/Pasted image 20231207122942.png",
-    "Files/~$IT2_LESSON3.docx",
-    "Files/U3 L1 in SAD.docx",
-    "Files/U2 L3 in SAD.docx",
+    "Files/U4 L2 in SAD.docx",
     "Files/U4 L1 in SAD.docx",
-    "Files/U2 L4 in SAD.docx",
     "Files/U3 L2 in SAD.docx",
-    "Files/U4 L2 in SAD.docx"
+    "Files/U3 L1 in SAD.docx",
+    "Files/U2 L4 in SAD.docx",
+    "Files/U2 L3 in SAD.docx",
+    "Files/Screenshot_20231209_091511.jpg",
+    "Files/Pasted image 20231219212005.png",
+    "Files/Pasted image 20231219161333.png",
+    "Files/Pasted image 20231211234801.png",
+    "Files/Pasted image 20231207122942.png",
+    "Files/Pasted image 20231130204046.png",
+    "Files/Pasted image 20231130204021.png",
+    "Templates",
+    "Plans/Daily",
+    "Plans",
+    "Files"
   ]
 }
