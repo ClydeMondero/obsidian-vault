@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Creating a Task Management Website.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -204,6 +204,7 @@
   },
   "active": "cb98e4df4563ad34",
   "lastOpenFiles": [
+    "Files/Pasted image 20231223131945.png",
     "Create a REST API using MongoDB, Express, and Node.md",
     "Creating a Task Management Website.md",
     "Routes, and Controller in Express.md",
@@ -229,7 +230,6 @@
     "_015 Tasks MOC.md",
     "Switching to Obsidian.md",
     "Operating System.md",
-    "_005 Inbox MOC.md",
     "git",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",
