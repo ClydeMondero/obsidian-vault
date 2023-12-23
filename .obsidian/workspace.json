@@ -21,32 +21,6 @@
             }
           },
           {
-            "id": "f68ef676a260f36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e759c8f28d4a8740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c62c2e5c60dc995c",
             "type": "leaf",
             "state": {
@@ -157,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Redis.md",
+                "file": "Routes, and Controller in Express.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis.md",
+                "file": "Routes, and Controller in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,24 +193,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f68ef676a260f36a",
+  "active": "c62c2e5c60dc995c",
   "lastOpenFiles": [
-    "Jest.md",
+    "Creating a Task Management Website.md",
+    "Routes, and Controller in Express.md",
+    "HTTP.md",
+    "Creating a Task Management Website Kanban.md",
+    "_010 Projects MOC.md",
     "Redis.md",
+    "Jest.md",
     "Templates/Daily Planner Template.md",
     "Plans/Daily/2023-12-23.md",
-    "Creating a Task Management Website Kanban.md",
-    "Creating a Task Management Website.md",
     "Folder Structure of MERN Application.md",
-    "_010 Projects MOC.md",
     "_000 Home.md",
     "_030 School MOC.md",
     "Sports Hub.md",
     "System Analysis and Design.md",
     "TypeScript.md",
     "HTTP status codes.md",
-    "Routes, and Controller in Express.md",
-    "HTTP.md",
     "Create a REST API using MongoDB, Express, and Node.md",
     "Take DSA Course Kanban.md",
     "Task Management in Obsidian.md",
