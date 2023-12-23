@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "004c538abf790f87",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Creating a Task Management Website Kanban.md"
+              }
+            }
+          },
+          {
             "id": "c62c2e5c60dc995c",
             "type": "leaf",
             "state": {
@@ -33,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Routes, and Controller in Express.md",
+                "file": "Creating a Task Management Website.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -166,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routes, and Controller in Express.md",
+                "file": "Creating a Task Management Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +202,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c62c2e5c60dc995c",
+  "active": "cb98e4df4563ad34",
   "lastOpenFiles": [
+    "Create a REST API using MongoDB, Express, and Node.md",
     "Creating a Task Management Website.md",
     "Routes, and Controller in Express.md",
-    "HTTP.md",
     "Creating a Task Management Website Kanban.md",
+    "HTTP.md",
     "_010 Projects MOC.md",
     "Redis.md",
     "Jest.md",
@@ -211,7 +221,6 @@
     "System Analysis and Design.md",
     "TypeScript.md",
     "HTTP status codes.md",
-    "Create a REST API using MongoDB, Express, and Node.md",
     "Take DSA Course Kanban.md",
     "Task Management in Obsidian.md",
     "Useful Browser Extensions.md",

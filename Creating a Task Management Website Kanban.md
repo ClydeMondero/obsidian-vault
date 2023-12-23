@@ -13,7 +13,6 @@ Links:
 
 ## In Development
 
-- [ ] Controllers
 
 
 ## Testing
@@ -31,6 +30,7 @@ Links:
 - [x] Connect to Database
 - [x] Routes
 - [x] Task Model
+- [x] Controllers
 
 
 
