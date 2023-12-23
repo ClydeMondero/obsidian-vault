@@ -14,6 +14,8 @@ Links:
 
 ## In Development
 
+- [ ] User Route
+- [ ] User Controller
 - [ ] Prototype
 
 
@@ -32,7 +34,8 @@ Links:
 - [x] Connect to Database
 - [x] Routes
 - [x] Task Model
-- [x] Controllers
+- [x] Task Controllers
+- [x] User Model
 
 
 
