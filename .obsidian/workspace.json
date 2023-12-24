@@ -11,12 +11,9 @@
             "id": "02ca8e20245fa802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Plans/Daily/2023-12-24.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "_010 Projects MOC.md"
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2023-12-24.md",
+                "file": "_010 Projects MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2023-12-24.md",
+                "file": "_010 Projects MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,10 +162,10 @@
   },
   "active": "02ca8e20245fa802",
   "lastOpenFiles": [
+    "Plans/Daily/2023-12-24.md",
     "Vim Bindings.md",
     "NeoVim Keymaps.md",
     "Creating a Task Management Website.md",
-    "Plans/Daily/2023-12-24.md",
     "Fix secret key must have a value in JWT.md",
     "next middleware in Express.md",
     "Routes, and Controller in Express.md",
