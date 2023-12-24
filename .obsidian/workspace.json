@@ -11,9 +11,12 @@
             "id": "02ca8e20245fa802",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "_010 Projects MOC.md"
+                "file": "Plans/Daily/2023-12-24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
