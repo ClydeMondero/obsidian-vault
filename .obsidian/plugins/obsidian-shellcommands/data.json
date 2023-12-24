@@ -25,7 +25,7 @@
     {
       "id": "kq55u9g33y",
       "platform_specific_commands": {
-        "default": "Start-Process -FilePath \"C:\\Users\\PCB\\Downloads\\syncthing-windows-amd64-v1.26.1\\syncthing-windows-amd64-v1.26.1\\syncthing.exe\""
+        "default": "$Prog =  \"C:\\Users\\PCB\\Downloads\\syncthing-windows-amd64-v1.26.1\\syncthing-windows-amd64-v1.26.1\\syncthing.exe\"\n$Running = Get-Process prog -ErrorAction SilentlyContinue\n$Start = {([wmiclass]\"win32_process\").Create($Prog)} \nif($Running -eq $null) \n{& $Start}"
       },
       "shells": {
         "win32": "PowerShell.exe"
