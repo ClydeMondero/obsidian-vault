@@ -62,6 +62,7 @@
 
 ### Saving and Exiting
 - :q - quit
+- :qa - quit all
 - :q! - exit without saving
 - :w - save
 - :wq - save and exit

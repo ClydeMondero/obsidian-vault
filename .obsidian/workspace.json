@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb98e4df4563ad34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creating a Task Management Website.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "02ca8e20245fa802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Plans/Daily/2023-12-24.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +165,15 @@
   },
   "active": "02ca8e20245fa802",
   "lastOpenFiles": [
+    "Vim Bindings.md",
+    "NeoVim Keymaps.md",
     "Creating a Task Management Website.md",
+    "Plans/Daily/2023-12-24.md",
     "Fix secret key must have a value in JWT.md",
     "next middleware in Express.md",
     "Routes, and Controller in Express.md",
     "JWT.md",
     "Proxy port for React and Express servers to work.md",
-    "Plans/Daily/2023-12-24.md",
     "Plans/Daily/2023-12-23.md",
     "HTTP status codes.md",
     "Creating a Task Management Website Kanban.md",
@@ -209,8 +197,6 @@
     "~syncthing~My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md.tmp",
     "Run an exe file in Powershell.md",
     "Files/Pasted image 20231223131945.png",
-    "Create a REST API using MongoDB, Express, and Node.md",
-    "HTTP.md",
     "git",
     "Files/Pasted image 20231219212005.png",
     "Files/Pasted image 20231219161333.png",
