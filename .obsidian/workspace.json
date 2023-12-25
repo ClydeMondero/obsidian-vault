@@ -8,19 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02ca8e20245fa802",
+            "id": "ecb752a894dc2a65",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_000 Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ef07f0fefd55b22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Run an exe file if not already running in Powershell.md",
+                "file": "Plans/Daily/2023-12-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Run an exe file if not already running in Powershell.md",
+                "file": "Plans/Daily/2023-12-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -136,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Run an exe file if not already running in Powershell.md",
+                "file": "Plans/Daily/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,10 +179,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "02ca8e20245fa802",
+  "active": "ef07f0fefd55b22c",
   "lastOpenFiles": [
-    "Difference with module.exports with exports in NodeJs.md",
+    "_010 Projects MOC.md",
+    "Plans/Daily/2023-12-25.md",
+    "TypeScript.md",
+    "_000 Home.md",
     "Run an exe file if not already running in Powershell.md",
+    "Difference with module.exports with exports in NodeJs.md",
     "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
     "Creating a Task Management Website.sync-conflict-20231223-143640-YRYYJPY.md",
     "Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md",
@@ -187,10 +207,6 @@
     "Child Referencing.md",
     "Parent Referencing.md",
     "One to Many relationship in MongoDB.md",
-    "Use TailwindCSS in React.md",
-    "React Forms.md",
-    "My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md",
-    "Plans/Daily/2023-12-22.sync-conflict-20231223-143646-YRYYJPY.md",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
     "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
