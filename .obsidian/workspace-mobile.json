@@ -11,13 +11,8 @@
             "id": "53d8a85f9a57e876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plans/Daily/2023-12-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plans/Daily/2023-12-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,6 +130,10 @@
   },
   "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
+    "Plans/Daily/2023-12-26.md",
+    "Creating a Task Management Website.md",
+    "_010 Projects MOC.md",
+    "Plans/Daily/2023-12-23.md",
     "TypeScript.md",
     "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
     "Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md",
@@ -156,13 +154,9 @@
     "_030 School MOC.md",
     "_020 Second Brain MOC.md",
     "_015 Tasks MOC.md",
-    "_010 Projects MOC.md",
     "_005 Inbox MOC.md",
     "_000 Home.md",
     "YAML.md",
-    "XML.md",
-    "Windows.md",
-    "WebSockets.md",
     "Files/a86e7c8c175858bd8e5a731188ee3233.png",
     "Files/U4 L2 in SAD.docx",
     "Files/U4 L1 in SAD.docx",

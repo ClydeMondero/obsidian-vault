@@ -14,7 +14,6 @@ Links:
 
 ## In Development
 
-- [ ] Task Controllers
 - [ ] Home Route
 - [ ] Prototype
 
@@ -33,6 +32,7 @@ Links:
 - [x] Create a Server
 - [x] Connect to Database
 - [x] Task Model
+- [x] Task Controllers
 - [x] Task Routes
 - [x] User Model
 - [x] User Controller
