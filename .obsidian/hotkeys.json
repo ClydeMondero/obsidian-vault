@@ -20,9 +20,9 @@
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "ArrowRight"
     }
   ],
   "editor:insert-wikilink": [
@@ -60,14 +60,6 @@
       "key": "G"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
@@ -78,5 +70,13 @@
   ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:save": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ]
 }

@@ -8,16 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecb752a894dc2a65",
+            "id": "fc0483590745d4ec",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_000 Home.md",
+                "file": "_005 Inbox MOC.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5f899b02ada5032a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_015 Tasks MOC.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f14cecd46ce4c961",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_010 Projects MOC.md"
               },
               "pinned": true
             }
@@ -28,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2023-12-25.md",
+                "file": "Plans/Daily/2023-12-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -36,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "60c4042d18dce1b8",
@@ -117,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2023-12-25.md",
+                "file": "Plans/Daily/2023-12-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -152,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2023-12-25.md",
+                "file": "Plans/Daily/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,10 +209,17 @@
   },
   "active": "ef07f0fefd55b22c",
   "lastOpenFiles": [
-    "_010 Projects MOC.md",
+    "Clyde.md",
+    "Plans/Daily/2023-12-26.md",
+    "My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md",
+    "My godchildren.md",
     "Plans/Daily/2023-12-25.md",
-    "TypeScript.md",
+    "_015 Tasks MOC.md",
+    "_005 Inbox MOC.md",
+    "_010 Projects MOC.md",
     "_000 Home.md",
+    "Templates/Project Template.md",
+    "TypeScript.md",
     "Run an exe file if not already running in Powershell.md",
     "Difference with module.exports with exports in NodeJs.md",
     "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
@@ -200,13 +235,6 @@
     "Fix secret key must have a value in JWT.md",
     "next middleware in Express.md",
     "Routes, and Controller in Express.md",
-    "JWT.md",
-    "Proxy port for React and Express servers to work.md",
-    "Plans/Daily/2023-12-23.md",
-    "HTTP status codes.md",
-    "Child Referencing.md",
-    "Parent Referencing.md",
-    "One to Many relationship in MongoDB.md",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
     "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
