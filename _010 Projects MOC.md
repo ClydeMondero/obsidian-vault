@@ -13,12 +13,12 @@ Links: "[[_000 Home]]"
 
 ## In Progress
 
+- [ ] [[Creating a Task Management Website]]
 
 
 ## On Hold
 
 - [ ] [[Switching to Obsidian]]
-- [ ] [[Creating a Task Management Website]]
 
 
 ## Completed
