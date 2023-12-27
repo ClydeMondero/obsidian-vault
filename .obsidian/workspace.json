@@ -61,9 +61,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a6ecae8b1dc50648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/Daily/2023-12-27.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "My godchildren.md",
+                "file": "Plans/Daily/2023-12-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My godchildren.md",
+                "file": "Plans/Daily/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,8 +220,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c15121e89c6fe6e",
+  "active": "a6ecae8b1dc50648",
   "lastOpenFiles": [
+    "Plans/Daily/2023-12-27.md",
     "Plans/Daily/2023-12-26.md",
     "_010 Projects MOC.md",
     "Commit types in Git.md",
@@ -235,7 +249,6 @@
     "Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md",
     "Templates/Daily Planner Template.md",
     "Templates/Daily Planner Template.sync-conflict-20231223-143640-YRYYJPY.md",
-    "Plans/Daily/2023-12-24.md",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
     "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
