@@ -5,5 +5,5 @@
 - [ ] 14:00 Take a Nap
 - [ ] 15:00  Eat Merienda
 - [ ] 16:00 Take a Bath 
-- [ ] 18:00 Eat Dinner
+- [ ] 20:00 Eat Dinner
 - [ ] 22:00 Take a Half Bath
