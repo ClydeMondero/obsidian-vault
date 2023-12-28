@@ -42,46 +42,20 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "_010 Projects MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "_010 Projects MOC.md"
               },
               "pinned": true
             }
           },
           {
-            "id": "ec837ebf44bb5f27",
+            "id": "0346c0be4ceff10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a Task Management Website.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff47d130ca6d4171",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Creating a Task Management Website Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "a6ecae8b1dc50648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Planner Template.md",
+                "file": "Useful keyboard shortcuts in Windows.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -89,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Creating a Task Management Website Kanban.md",
+                "file": "Useful keyboard shortcuts in Windows.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -206,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a Task Management Website Kanban.md",
+                "file": "Useful keyboard shortcuts in Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,21 +207,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff47d130ca6d4171",
+  "active": "0346c0be4ceff10d",
   "lastOpenFiles": [
-    "Creating a Task Management Website.md",
+    "Windows.md",
+    "Add a app to startup in Windows.md",
     "_010 Projects MOC.md",
+    "Creating a Task Management Website.md",
+    "Creating a Task Management Website Kanban.md",
+    "Templates/Daily Planner Template.md",
+    "Useful keyboard shortcuts in Windows.md",
+    "windows use.md",
     "_015 Tasks MOC.md",
     "_005 Inbox MOC.md",
-    "Templates/Daily Planner Template.md",
     "Plans/Daily/2023-12-28.md",
     "Commit types in Git.md",
     "Plans/Daily/2023-12-27.md",
-    "Useful keyboard shortcuts in Windows.md",
-    "Windows.md",
     "My godchildren.md",
     "Plans/Daily/2023-12-26.md",
-    "Creating a Task Management Website Kanban.md",
     "Plans/Daily/2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md",
     "Plans/Daily/~syncthing~2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md.tmp",
     "Child Referencing.md",
@@ -260,8 +236,6 @@
     "Templates/Project Template.md",
     "TypeScript.md",
     "Run an exe file if not already running in Powershell.md",
-    "Difference with module.exports with exports in NodeJs.md",
-    "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
     "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
