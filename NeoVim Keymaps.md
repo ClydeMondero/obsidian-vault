@@ -46,6 +46,11 @@
 - u - untrack
 - X - discard changes
 
+## Surround
+- ys{motion}{char} - add
+- ds{char} - delete 
+- cs{motion}{char} - change
+
 ## Mason
 - :Mason
 
