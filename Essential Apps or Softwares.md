@@ -1,6 +1,6 @@
 [[Clyde]]
 
-# My Favorites Apps or Software
+# Essential Apps or Software
 #resource 
 
 - Neovim - IDE 
@@ -11,3 +11,5 @@
 - GlazeWM - window manager
 - MoonReader - book reader
 - Tachiyomi - manga and manhwa reader
+- Syncthing - sync files
+- ObsStudio - Video Recording

@@ -10,6 +10,7 @@ Links: "[[_000 Home]]"
 - [ ] [[Create a Portable NeoVim]]
 - [ ] [[Taking DSA Course]]
 - [ ] [[Creating a CLI App]]
+- [ ] Trying ArchLinux
 
 
 ## In Progress
