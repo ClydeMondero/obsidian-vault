@@ -14,7 +14,6 @@ Links:
 
 ## In Development
 
-- [ ] Home Route
 - [ ] Prototype
 
 
@@ -37,6 +36,7 @@ Links:
 - [x] User Model
 - [x] User Controller
 - [x] User Route
+- [x] Home Route
 
 
 
