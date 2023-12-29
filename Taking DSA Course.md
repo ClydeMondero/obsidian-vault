@@ -1,5 +1,5 @@
 [[_050 Coding MOC]]
-# Take DSA Course
+# Taking DSA Course
 #project
 ## Tasks
 [[Take DSA Course Kanban]]

@@ -1,6 +1,6 @@
 ---
 kanban-plugin: basic
-Links: "[[Take DSA Course]]"
+Links: "[[Taking DSA Course]]"
 ---
 
 ## Not Started

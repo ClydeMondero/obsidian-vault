@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "0a8b1ba7c7adc7cc",
+            "id": "738d27a1baf7c931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,12 +207,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a8b1ba7c7adc7cc",
+  "active": "738d27a1baf7c931",
   "lastOpenFiles": [
-    "Templates/Daily Planner Template.md",
-    "Plans/Daily/2023-12-29.md",
-    "Plans/Daily/2023-12-28.md",
     "_010 Projects MOC.md",
+    "Go.md",
+    "Creating a CLI App.md",
+    "Taking DSA Course.md",
+    "My godchildren.md",
+    "Plans/Daily/2023-12-29.md",
+    "Files/TOPCIT Certificate.pdf",
+    "Templates/Daily Planner Template.md",
+    "Plans/Daily/2023-12-28.md",
     "Useful keyboard shortcuts in Windows.md",
     "Windows.md",
     "Add a app to startup in Windows.md",
@@ -223,7 +228,6 @@
     "_005 Inbox MOC.md",
     "Commit types in Git.md",
     "Plans/Daily/2023-12-27.md",
-    "My godchildren.md",
     "Plans/Daily/2023-12-26.md",
     "Plans/Daily/2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md",
     "Plans/Daily/~syncthing~2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md.tmp",
@@ -233,9 +237,6 @@
     "Clyde.md",
     "My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md",
     "Plans/Daily/2023-12-25.md",
-    "_000 Home.md",
-    "Templates/Project Template.md",
-    "TypeScript.md",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
     "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
@@ -247,7 +248,6 @@
     "Files/Pasted image 20231219161333.png",
     "Plans/Daily/~syncthing~2023-12-17.md.tmp",
     "My Favorites Apps",
-    "Plans",
     "Files/Pasted image 20231211234801.png",
     "Files/a86e7c8c175858bd8e5a731188ee3233.png",
     "Files/Screenshot_20231209_091511.jpg",
