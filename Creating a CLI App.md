@@ -1,4 +1,4 @@
-[[_005 Inbox MOC]]
+[[_050 Coding MOC]]
 # Creating a CLI App
 #project
 ## Tasks
@@ -6,3 +6,4 @@
 
 ## Related Resources
 - [Build a CLI App with NodeJs](https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/)
+- [[PostgreSQL]]

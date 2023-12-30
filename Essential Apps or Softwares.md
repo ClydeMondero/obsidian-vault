@@ -13,3 +13,4 @@
 - Tachiyomi - manga and manhwa reader
 - Syncthing - sync files
 - ObsStudio - Video Recording
+- Bitwarden - Password Manager

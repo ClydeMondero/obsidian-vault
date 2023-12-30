@@ -7,10 +7,11 @@ Links: "[[_000 Home]]"
 
 ## Not Started
 
-- [ ] [[Create a Portable NeoVim]]
+- [ ] [[Creating a Portable NeoVim]]
 - [ ] [[Taking DSA Course]]
 - [ ] [[Creating a CLI App]]
 - [ ] Trying ArchLinux
+- [ ] Trying Tmux
 
 
 ## In Progress
