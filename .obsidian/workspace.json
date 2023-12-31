@@ -56,6 +56,19 @@
               "type": "markdown",
               "state": {
                 "file": "Plans/Daily/2023-12-31.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0afb8f10ce7b1579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/Daily/2023-12-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -63,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,8 +219,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "935ad5ec5272ffd6",
+  "active": "0afb8f10ce7b1579",
   "lastOpenFiles": [
+    "Creating a Task Management Website.md",
     "_010 Projects MOC.md",
     "Plans/Daily/2023-12-31.md",
     "Assets/f9ee95112685df2499caab1be82a68db.mp4",
@@ -230,7 +244,6 @@
     "Docker.md",
     "ArchLinux.md",
     "Essential Apps or Softwares.md",
-    "Creating a Task Management Website.md",
     "PostgreSQL.md",
     "Plans/Daily/2023-12-29.md",
     "NeoVim Keymaps.md",

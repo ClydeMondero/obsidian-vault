@@ -14,7 +14,6 @@ Links:
 
 ## In Development
 
-- [ ] Prototype
 
 
 ## Testing
@@ -37,6 +36,7 @@ Links:
 - [x] User Controller
 - [x] User Route
 - [x] Home Route
+- [x] Prototype
 
 
 
