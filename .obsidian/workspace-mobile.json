@@ -11,8 +11,13 @@
             "id": "53d8a85f9a57e876",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recovering from committing a sin.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -40,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "faith",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -48,28 +53,9 @@
             "sortOrder": "alphabetical"
           }
         }
-      },
-      {
-        "id": "8f8f003181b5b0b3",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "aaf72b4134edc25e",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7efaf558e6429f2c",
@@ -81,6 +67,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Recovering from committing a sin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,6 +117,29 @@
   },
   "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
+    "Assets/f9ee95112685df2499caab1be82a68db.mp4",
+    "f9ee95112685df2499caab1be82a68db 1.mp4",
+    "f9ee95112685df2499caab1be82a68db.mp4",
+    "_060 Faith MOC.md",
+    "Plans/Daily/2023-12-30.md",
+    "Assets/a86e7c8c175858bd8e5a731188ee3233.png",
+    "Assets/U3 L2 in SAD.docx",
+    "Assets/Screenshot_20231209_091511.jpg",
+    "Assets/U2 L3 in SAD.docx",
+    "Assets/U3 L1 in SAD.docx",
+    "Assets/Pasted image 20231211234801.png",
+    "Assets/Pasted image 20231207122942.png",
+    "Assets/Pasted image 20231223131945.png",
+    "Assets/TOPCIT Certificate.pdf",
+    "Assets/Pasted image 20231219161333.png",
+    "Assets/U2 L4 in SAD.docx",
+    "Assets/Pasted image 20231130204046.png",
+    "Assets/Pasted image 20231219212005.png",
+    "Assets/U4 L1 in SAD.docx",
+    "Assets/U4 L2 in SAD.docx",
+    "Assets/Pasted image 20231130204021.png",
+    "Assets",
+    "Plans/Daily/2023-12-29.md",
     "Plans/Daily/2023-12-26.md",
     "Creating a Task Management Website.md",
     "_010 Projects MOC.md",
@@ -152,28 +162,6 @@
     "_050 Coding MOC.md",
     "_040 People MOC.md",
     "_030 School MOC.md",
-    "_020 Second Brain MOC.md",
-    "_015 Tasks MOC.md",
-    "_005 Inbox MOC.md",
-    "_000 Home.md",
-    "YAML.md",
-    "Files/a86e7c8c175858bd8e5a731188ee3233.png",
-    "Files/U4 L2 in SAD.docx",
-    "Files/U4 L1 in SAD.docx",
-    "Files/U3 L2 in SAD.docx",
-    "Files/U3 L1 in SAD.docx",
-    "Files/U2 L4 in SAD.docx",
-    "Files/U2 L3 in SAD.docx",
-    "Files/Screenshot_20231209_091511.jpg",
-    "Files/Pasted image 20231219212005.png",
-    "Files/Pasted image 20231219161333.png",
-    "Files/Pasted image 20231211234801.png",
-    "Files/Pasted image 20231207122942.png",
-    "Files/Pasted image 20231130204046.png",
-    "Files/Pasted image 20231130204021.png",
-    "Templates",
-    "Plans/Daily",
-    "Plans",
-    "Files"
+    "_020 Second Brain MOC.md"
   ]
 }

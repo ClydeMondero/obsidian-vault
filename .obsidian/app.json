@@ -4,7 +4,7 @@
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "Assets",
   "showLineNumber": true,
   "propertiesInDocument": "source",
   "focusNewTab": true,

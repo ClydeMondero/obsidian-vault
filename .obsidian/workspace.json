@@ -50,20 +50,20 @@
             }
           },
           {
-            "id": "719d7096a7dd6451",
+            "id": "935ad5ec5272ffd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2023-12-30.md",
-                "mode": "preview",
+                "file": "Plans/Daily/2023-12-31.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "60c4042d18dce1b8",
@@ -145,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_010 Projects MOC.md",
+                "file": "Plans/Daily/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,18 +206,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f14cecd46ce4c961",
+  "active": "935ad5ec5272ffd6",
   "lastOpenFiles": [
+    "_010 Projects MOC.md",
+    "Plans/Daily/2023-12-31.md",
+    "Assets/f9ee95112685df2499caab1be82a68db.mp4",
+    "Recovering from committing a sin.md",
+    "Creating a CLI App.md",
+    "Templates/Resource Template.md",
+    "Plans/Daily/2023-12-30.md",
+    "~syncthing~Recovering from committing a sin.md.tmp",
+    "f9ee95112685df2499caab1be82a68db 1.mp4",
+    "~syncthing~f9ee95112685df2499caab1be82a68db 1.mp4.tmp",
+    "~syncthing~f9ee95112685df2499caab1be82a68db.mp4.tmp",
+    "Templates/Daily Planner Template.md",
+    "Templates/Area Template.md",
+    "Plans/Daily/2023-12-29.sync-conflict-20231230-224619-YRYYJPY.md",
+    "Plans/Daily/~syncthing~2023-12-29.sync-conflict-20231230-224619-YRYYJPY.md.tmp",
+    "_060 Faith MOC.md",
     "_005 Inbox MOC.md",
     "_015 Tasks MOC.md",
-    "_010 Projects MOC.md",
-    "Plans/Daily/2023-12-30.md",
     "Creating a Portable NeoVim.md",
     "Docker.md",
     "ArchLinux.md",
     "Essential Apps or Softwares.md",
     "Creating a Task Management Website.md",
-    "Creating a CLI App.md",
     "PostgreSQL.md",
     "Plans/Daily/2023-12-29.md",
     "NeoVim Keymaps.md",
@@ -226,33 +238,20 @@
     "Go.md",
     "Taking DSA Course.md",
     "My godchildren.md",
-    "Files/TOPCIT Certificate.pdf",
-    "Templates/Daily Planner Template.md",
+    "Assets/TOPCIT Certificate.pdf",
     "Plans/Daily/2023-12-28.md",
     "Useful keyboard shortcuts in Windows.md",
-    "Windows.md",
-    "Add a app to startup in Windows.md",
-    "windows use.md",
-    "Commit types in Git.md",
-    "Plans/Daily/2023-12-27.md",
-    "Plans/Daily/2023-12-26.md",
     "Plans/Daily/~syncthing~2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md.tmp",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",
-    "~syncthing~Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md.tmp",
-    "Templates/~syncthing~Daily Planner Template.sync-conflict-20231223-143640-YRYYJPY.md.tmp",
-    "~syncthing~My Favorites Apps or Softwares.sync-conflict-20231223-143722-YRYYJPY.md.tmp",
-    "Files/Pasted image 20231223131945.png",
-    "git",
-    "Files/Pasted image 20231219212005.png",
-    "Files/Pasted image 20231219161333.png",
-    "Plans/Daily/~syncthing~2023-12-17.md.tmp",
-    "My Favorites Apps",
-    "Files/Pasted image 20231211234801.png",
-    "Files/a86e7c8c175858bd8e5a731188ee3233.png",
-    "Files/Screenshot_20231209_091511.jpg",
-    "Files/Pasted image 20231207122942.png",
-    "Files/Pasted image 20231130204046.png",
-    "Files/Pasted image 20231130204021.png"
+    "Assets/Pasted image 20231223131945.png",
+    "Assets/Pasted image 20231219212005.png",
+    "Assets/Pasted image 20231219161333.png",
+    "Assets/Pasted image 20231211234801.png",
+    "Assets/a86e7c8c175858bd8e5a731188ee3233.png",
+    "Assets/Screenshot_20231209_091511.jpg",
+    "Assets/Pasted image 20231207122942.png",
+    "Assets/Pasted image 20231130204046.png",
+    "Assets/Pasted image 20231130204021.png"
   ]
 }
