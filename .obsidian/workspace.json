@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2023-12-31.md",
-                "mode": "source",
+                "file": "Creating a Task Management Website.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2023-12-31.md",
+                "file": "Creating a Task Management Website.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2023-12-31.md",
+                "file": "Creating a Task Management Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,9 +221,12 @@
   },
   "active": "0afb8f10ce7b1579",
   "lastOpenFiles": [
+    "Data Flow in Redux.md",
+    "Redux.md",
     "Creating a Task Management Website.md",
-    "_010 Projects MOC.md",
+    "Creating a Task Management Website Kanban.md",
     "Plans/Daily/2023-12-31.md",
+    "_010 Projects MOC.md",
     "Assets/f9ee95112685df2499caab1be82a68db.mp4",
     "Recovering from committing a sin.md",
     "Creating a CLI App.md",
@@ -247,13 +250,10 @@
     "PostgreSQL.md",
     "Plans/Daily/2023-12-29.md",
     "NeoVim Keymaps.md",
-    "Creating a Task Management Website Kanban.md",
     "Go.md",
     "Taking DSA Course.md",
     "My godchildren.md",
     "Assets/TOPCIT Certificate.pdf",
-    "Plans/Daily/2023-12-28.md",
-    "Useful keyboard shortcuts in Windows.md",
     "Plans/Daily/~syncthing~2023-12-26.sync-conflict-20231226-211032-YRYYJPY.md.tmp",
     "Plans/Daily/~syncthing~2023-12-23.sync-conflict-20231223-143715-YRYYJPY.md.tmp",
     "~syncthing~Creating a Task Management Website Kanban.sync-conflict-20231223-143838-YRYYJPY.md.tmp",

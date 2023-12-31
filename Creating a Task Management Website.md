@@ -27,4 +27,4 @@
 - [[Use TailwindCSS in React]] 
 - [[Add icons in React using FontAwesome]]
 - [[React Forms]]
-- [[Redux]] 
+- [Redux in MERN](https://medium.com/@ashton.s.fernandes/the-mern-stack-with-redux-fbd2a1400fa)
