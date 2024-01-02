@@ -12,6 +12,7 @@ Links: "[[_000 Home]]"
 - [ ] [[Creating a CLI App]]
 - [ ] Trying ArchLinux
 - [ ] Trying Tmux
+- [ ] Reading the Bible
 
 
 ## In Progress

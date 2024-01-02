@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recovering from committing a sin.md",
-                "mode": "preview",
+                "file": "Plans/Daily/2024-01-01.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -55,7 +55,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7efaf558e6429f2c",
@@ -67,7 +67,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recovering from committing a sin.md",
+            "file": "Plans/Daily/2024-01-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,6 +117,10 @@
   },
   "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
+    "_010 Projects MOC.md",
+    "_005 Inbox MOC.md",
+    "Plans/Daily/2023-12-31.md",
+    "Recovering from committing a sin.md",
     "Assets/f9ee95112685df2499caab1be82a68db.mp4",
     "f9ee95112685df2499caab1be82a68db 1.mp4",
     "f9ee95112685df2499caab1be82a68db.mp4",
@@ -138,11 +142,9 @@
     "Assets/U4 L1 in SAD.docx",
     "Assets/U4 L2 in SAD.docx",
     "Assets/Pasted image 20231130204021.png",
-    "Assets",
     "Plans/Daily/2023-12-29.md",
     "Plans/Daily/2023-12-26.md",
     "Creating a Task Management Website.md",
-    "_010 Projects MOC.md",
     "Plans/Daily/2023-12-23.md",
     "TypeScript.md",
     "Run an exe file in Powershell.sync-conflict-20231223-143902-YRYYJPY.md",
@@ -160,8 +162,6 @@
     "HTTP status codes.md",
     "jQuery.md",
     "_050 Coding MOC.md",
-    "_040 People MOC.md",
-    "_030 School MOC.md",
-    "_020 Second Brain MOC.md"
+    "_040 People MOC.md"
   ]
 }
