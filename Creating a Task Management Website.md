@@ -18,7 +18,6 @@
 ![[Pasted image 20231223131945.png]]
 
 ## Related Resources
-- [[Create a MERN Application]]
 - [[Folder Structure of MERN Application]]
 - [[Create a REST API using MongoDB, Express, and Node]]
 - [[Routes, and Controller in Express]]

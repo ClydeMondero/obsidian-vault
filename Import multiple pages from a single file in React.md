@@ -10,6 +10,7 @@
    -questions.js
 ```
 
+/components/index.js
 ```javascript
 import Login from './login'
 import Question from './question'
@@ -17,7 +18,7 @@ import Question from './question'
 export {Login, Question}
 ```
 
-
+App.js
 ```javascript
 import {Login, Question} from './components'
 ```

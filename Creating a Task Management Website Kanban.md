@@ -9,11 +9,11 @@ Links:
 ## Not Started
 
 - [ ] README
-- [ ] Template
 
 
 ## In Development
 
+- [ ] Login Page
 
 
 ## Testing

@@ -65,6 +65,7 @@
 - :qa - quit all
 - :q! - exit without saving
 - :w - save
+- :wa - save all
 - :wq - save and exit
 
 ### Redo or Undo Changes
