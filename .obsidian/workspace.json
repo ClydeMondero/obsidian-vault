@@ -55,8 +55,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linking pages in React.md",
-                "mode": "preview",
+                "file": "Plans/Daily/2024-01-03.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Linking pages in React.md",
+                "file": "Plans/Daily/2024-01-03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linking pages in React.md",
+                "file": "Plans/Daily/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
