@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "b77edd67f0f4c438",
+            "id": "79490998eef90875",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2024-01-03.md",
+                "file": "Linking pages in React.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2024-01-03.md",
+                "file": "Linking pages in React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2024-01-03.md",
+                "file": "Linking pages in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,13 +206,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b77edd67f0f4c438",
+  "active": "79490998eef90875",
   "lastOpenFiles": [
-    "Import multiple pages from a single file in React.md",
-    "Plans/Daily/2024-01-03.md",
+    "Create a form in React.md",
     "_010 Projects MOC.md",
-    "Express.md",
     "React.md",
+    "Creating a CLI App.md",
+    "Add custom colors in TailwindCSS.md",
+    "Plans/Daily/2024-01-03.md",
+    "Import multiple pages from a single file in React.md",
+    "Express.md",
     "Linking pages in React.md",
     "Consume REST API using React.md",
     "Commit types in Git.md",
@@ -232,11 +235,8 @@
     "Plans/Daily/2024-01-01.md",
     "Templates/Daily Planner Template.md",
     "_015 Tasks MOC.md",
-    "8+8+8 Rule.md",
-    "Plans/Daily/2023-12-31.sync-conflict-20240101-175946-YRYYJPY.md",
     "Plans/Daily/~syncthing~2023-12-31.sync-conflict-20240101-175946-YRYYJPY.md.tmp",
     "~syncthing~_010 Projects MOC.md.tmp",
-    "Time Management.md",
     "Assets/f9ee95112685df2499caab1be82a68db.mp4",
     "~syncthing~Recovering from committing a sin.md.tmp",
     "f9ee95112685df2499caab1be82a68db 1.mp4",
