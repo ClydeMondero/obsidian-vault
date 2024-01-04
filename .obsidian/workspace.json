@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeoVim Keymaps.md",
+                "file": "Plans/Daily/2024-01-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NeoVim Keymaps.md",
+                "file": "Plans/Daily/2024-01-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeoVim Keymaps.md",
+                "file": "Plans/Daily/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,6 +208,8 @@
   },
   "active": "79490998eef90875",
   "lastOpenFiles": [
+    "NeoVim Keymaps.md",
+    "Plans/Daily/2024-01-04.md",
     "Add custom colors in TailwindCSS.md",
     "TailwindCSS.md",
     "Apply style to multiple elements in TailwindCSS.md",
@@ -226,7 +228,6 @@
     "Commit types in Git.md",
     "Vim Bindings.md",
     "Vim.md",
-    "NeoVim Keymaps.md",
     "Create a MERN Application.md",
     "Plans/Daily/2024-01-02.md",
     "Use TailwindCSS in React.md",
@@ -234,7 +235,6 @@
     "Plans/Daily/2024-01-02.sync-conflict-20240102-182129-YRYYJPY.md",
     "Plans/Daily/~syncthing~2024-01-02.sync-conflict-20240102-182129-YRYYJPY.md.tmp",
     "Plans/Daily/2024-01-01.md",
-    "Templates/Daily Planner Template.md",
     "Plans/Daily/~syncthing~2023-12-31.sync-conflict-20240101-175946-YRYYJPY.md.tmp",
     "~syncthing~_010 Projects MOC.md.tmp",
     "Assets/f9ee95112685df2499caab1be82a68db.mp4",
