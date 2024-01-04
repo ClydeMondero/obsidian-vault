@@ -9,6 +9,8 @@ Links:
 ## Not Started
 
 - [ ] README
+- [ ] Signup Page
+- [ ] Home Page
 
 
 ## In Development
