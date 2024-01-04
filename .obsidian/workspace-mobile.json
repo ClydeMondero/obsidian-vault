@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2024-01-02.md",
+                "file": "Plans/Daily/2024-01-04.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -67,7 +67,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plans/Daily/2024-01-02.md",
+            "file": "Plans/Daily/2024-01-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,8 +117,9 @@
   },
   "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
-    "Plans/Daily/2024-01-01.md",
     "Plans/Daily/2024-01-02.md",
+    "Plans/Daily/2024-01-04.md",
+    "Plans/Daily/2024-01-01.md",
     "_010 Projects MOC.md",
     "_005 Inbox MOC.md",
     "Plans/Daily/2023-12-31.md",
@@ -161,7 +162,6 @@
     "Creating a Task Management Website.sync-conflict-20231223-143640-YRYYJPY.md",
     "Templates/Daily Planner Template.sync-conflict-20231223-143640-YRYYJPY.md",
     "Redis.md",
-    "HTTP status codes.md",
-    "jQuery.md"
+    "HTTP status codes.md"
   ]
 }
