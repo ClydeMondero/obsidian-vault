@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Daily/2024-01-05.md",
-                "mode": "preview",
+                "file": "Templates/Daily Planner Template.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2024-01-05.md",
+                "file": "Templates/Daily Planner Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2024-01-05.md",
+                "file": "Templates/Daily Planner Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,10 +221,10 @@
   },
   "active": "99df3eda39e38c3a",
   "lastOpenFiles": [
+    "Plans/Daily/2024-01-05.md",
     "MERN.md",
     "Creating a Task Management Website.md",
     "Change document title in React.md",
-    "Plans/Daily/2024-01-05.md",
     "Plans/Daily/2024-01-10.md",
     "_015 Tasks MOC.md",
     "_010 Projects MOC.md",
