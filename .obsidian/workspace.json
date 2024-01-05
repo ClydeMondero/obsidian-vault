@@ -61,22 +61,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "99df3eda39e38c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Planner Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Daily Planner Template.md",
+                "file": "Plans/Daily/2024-01-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Planner Template.md",
+                "file": "Plans/Daily/2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +206,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "99df3eda39e38c3a",
+  "active": "abefcbd3c08a4666",
   "lastOpenFiles": [
+    "Templates/Daily Planner Template.md",
     "Plans/Daily/2024-01-05.md",
     "MERN.md",
     "Creating a Task Management Website.md",
@@ -231,7 +219,6 @@
     "_005 Inbox MOC.md",
     "Plans/Daily/2024-01-05.sync-conflict-20240105-135146-EZ6RPZI.md",
     "Plans/Daily/~syncthing~2024-01-05.md.tmp",
-    "Templates/Daily Planner Template.md",
     "Plans/Daily/2024-01-05.sync-conflict-20240105-134322-YRYYJPY.md",
     "Plans/Daily/~syncthing~2024-01-05.sync-conflict-20240105-134322-YRYYJPY.md.tmp",
     "Assets/Tachiyomi Backup/automatic/tachiyomi_2024-01-05_07-20.proto.gz",
