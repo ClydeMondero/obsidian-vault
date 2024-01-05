@@ -11,13 +11,8 @@
             "id": "53d8a85f9a57e876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plans/Daily/2024-01-04.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +62,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plans/Daily/2024-01-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,8 +111,13 @@
   },
   "active": "53d8a85f9a57e876",
   "lastOpenFiles": [
-    "Plans/Daily/2024-01-02.md",
+    "Plans/Daily/2024-01-10.md",
+    "Plans/Daily/2024-01-05.md",
+    "Plans/Daily/2024-01-05.sync-conflict-20240105-135146-EZ6RPZI.md",
+    "Templates/Daily Planner Template.md",
+    "Assets/Tachiyomi Backup/automatic/tachiyomi_2024-01-05_07-20.proto.gz",
     "Plans/Daily/2024-01-04.md",
+    "Plans/Daily/2024-01-02.md",
     "Plans/Daily/2024-01-01.md",
     "_010 Projects MOC.md",
     "_005 Inbox MOC.md",
@@ -143,7 +142,6 @@
     "Assets/Pasted image 20231130204046.png",
     "Assets/Pasted image 20231219212005.png",
     "Assets/U4 L1 in SAD.docx",
-    "Assets/U4 L2 in SAD.docx",
     "Assets/Pasted image 20231130204021.png",
     "Plans/Daily/2023-12-29.md",
     "Plans/Daily/2023-12-26.md",
@@ -158,10 +156,6 @@
     "Files/Pasted image 20231223131945.png",
     "Useful Browser Extensions.md",
     "Jest.md",
-    "Plans/Daily/2023-12-22.sync-conflict-20231223-143646-YRYYJPY.md",
-    "Creating a Task Management Website.sync-conflict-20231223-143640-YRYYJPY.md",
-    "Templates/Daily Planner Template.sync-conflict-20231223-143640-YRYYJPY.md",
-    "Redis.md",
-    "HTTP status codes.md"
+    "Plans/Daily/2023-12-22.sync-conflict-20231223-143646-YRYYJPY.md"
   ]
 }
