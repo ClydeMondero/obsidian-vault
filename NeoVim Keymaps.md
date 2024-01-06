@@ -51,6 +51,12 @@
 - ds{char} - delete 
 - cs{motion}{char} - change
 
+## UFO
+- zo - open single fold 
+- zc - close single fold 
+- zR - open all folds
+- zM - close all folds
+
 ## Mason
 - :Mason
 
