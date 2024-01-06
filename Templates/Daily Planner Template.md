@@ -8,4 +8,4 @@
 - [ ] 16:00 Take a Bath 
 - [ ] 20:00 Eat Dinner
 - [ ] 22:00 Take a Half Bath
-- [ ] 24:00 Sleep
+- [ ] 23:00 - 24:00 Sleep

@@ -7,7 +7,7 @@
   "endLabel": "All done",
   "startHour": 0,
   "timelineDateFormat": "YYYY-MM-DD",
-  "centerNeedle": false,
+  "centerNeedle": true,
   "plannerHeading": "Planner",
   "plannerHeadingLevel": 2,
   "timelineColored": false,
