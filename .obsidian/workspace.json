@@ -61,9 +61,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ef540c0c1b136a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/Daily/2024-01-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2024-01-05.md",
+                "file": "Plans/Daily/2024-01-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2024-01-05.md",
+                "file": "Plans/Daily/2024-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,16 +219,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abefcbd3c08a4666",
+  "active": "3ef540c0c1b136a3",
   "lastOpenFiles": [
-    "Templates/Daily Planner Template.md",
-    "Plans/Daily/2024-01-05.md",
-    "MERN.md",
+    "Creating a Task Management Website Kanban.md",
+    "Plans/Daily/2024-01-06.md",
     "Creating a Task Management Website.md",
+    "_010 Projects MOC.md",
+    "Plans/Daily/2024-01-05.md",
+    "Templates/Daily Planner Template.md",
+    "MERN.md",
     "Change document title in React.md",
     "Plans/Daily/2024-01-10.md",
     "_015 Tasks MOC.md",
-    "_010 Projects MOC.md",
     "_005 Inbox MOC.md",
     "Plans/Daily/2024-01-05.sync-conflict-20240105-135146-EZ6RPZI.md",
     "Plans/Daily/~syncthing~2024-01-05.md.tmp",
@@ -226,7 +241,6 @@
     "Assets/Tachiyomi Backup/automatic/~syncthing~tachiyomi_2024-01-04_21-21.proto.gz.tmp",
     "Assets/Tachiyomi Backup/automatic/~syncthing~tachiyomi_2024-01-05_07-20.proto.gz.tmp",
     "Plans/Daily/2024-01-04.md",
-    "Creating a Task Management Website Kanban.md",
     "Plans/Daily/2024-01-04.sync-conflict-20240104-170147-YRYYJPY.md",
     "Plans/Daily/2024-01-03.sync-conflict-20240104-170148-YRYYJPY.md",
     "Plans/Daily/~syncthing~2024-01-04.sync-conflict-20240104-170147-YRYYJPY.md.tmp",
@@ -243,7 +257,6 @@
     "React.md",
     "Creating a CLI App.md",
     "Import multiple pages from a single file in React.md",
-    "Express.md",
     "Assets/Pasted image 20231223131945.png",
     "Assets/Pasted image 20231219212005.png",
     "Assets/Pasted image 20231219161333.png",

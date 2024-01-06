@@ -15,7 +15,6 @@ Links:
 
 ## In Development
 
-- [ ] Login Page
 
 
 ## Testing
@@ -39,6 +38,7 @@ Links:
 - [x] User Route
 - [x] Home Route
 - [x] Prototype
+- [x] Login Page
 
 
 
