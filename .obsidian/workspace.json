@@ -74,9 +74,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7dd51b5d48f7e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/Daily/2024-01-09.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75eef3018dba1eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/Daily/2024-01-09.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_015 Tasks MOC.md",
+                "file": "Plans/Daily/2024-01-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:Templates  -tag:#project  ",
@@ -192,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_015 Tasks MOC.md",
+                "file": "Plans/Daily/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,10 +245,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f899b02ada5032a",
+  "active": "75eef3018dba1eae",
   "lastOpenFiles": [
-    "Plans/Daily/2024-01-09.md",
     "_015 Tasks MOC.md",
+    "Plans/Daily/2024-01-09.md",
     "Creating a Task Management Website.md",
     "_010 Projects MOC.md",
     "Vim Bindings.md",
