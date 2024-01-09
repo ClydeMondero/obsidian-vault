@@ -14,7 +14,6 @@ Links:
 
 ## In Development
 
-- [ ] Signup Page
 
 
 ## Testing
@@ -39,6 +38,7 @@ Links:
 - [x] Home Route
 - [x] Prototype
 - [x] Login Page
+- [x] Signup Page
 
 
 
