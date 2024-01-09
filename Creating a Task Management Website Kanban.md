@@ -9,12 +9,12 @@ Links:
 ## Not Started
 
 - [ ] README
-- [ ] Signup Page
 - [ ] Home Page
 
 
 ## In Development
 
+- [ ] Signup Page
 
 
 ## Testing

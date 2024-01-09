@@ -17,7 +17,7 @@ Links: "[[_000 Home]]"
 
 ## In Progress
 
-- [ ] [[Creating a Task Management Website]] @{2024-01-09}
+- [ ] [[Creating a Task Management Website]] @{2024-01-15}
 
 
 ## On Hold
